@@ -6,10 +6,8 @@ $user = 'myuser';
 $password = 'mypassword';
 $database = 'myappdb';
 
-// Connect to MySQL
 $conn = new mysqli($host, $user, $password, $database);
 
-// Check connection
 if ($conn->connect_error) {
     die(json_encode(['error' => 'Database connection failed: ' . $conn->connect_error]));
 }
