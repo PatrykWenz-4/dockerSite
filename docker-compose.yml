@@ -15,7 +15,6 @@ services:
     environment:
       - WATCHPACK_POLLING=true
 
-
   php:
     build:
       context: ./backend
@@ -27,7 +26,6 @@ services:
       - ./backend:/var/www/html
     depends_on:
       - mysql
-
 
   mysql:
     image: mysql:latest
