@@ -12,7 +12,7 @@ if ($conn->connect_error) {
     die(json_encode(['error' => 'Database connection failed: ' . $conn->connect_error]));
 }
 
-$sql = "SELECT id, username FROM users";
+$sql = "SELECT id, name FROM users";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {

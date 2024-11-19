@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>Hello, World!</h1>
-      <p>After launching "docker-compose up"888</p>
+      <p>After launching "docker-compose up"1888</p>
     </div>
   );
 }
