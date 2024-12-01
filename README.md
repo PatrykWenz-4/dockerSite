@@ -32,3 +32,9 @@ In my case:
 docker exec -it 419fc4edb5c9 sh
 npm install react-bootstrap bootstrap
 ```
+
+After that the example from React-bootstrap documentation started working:
+
+![image](https://github.com/user-attachments/assets/3ff9af00-0509-48f9-a42e-bf37ff2211a7)
+
+
