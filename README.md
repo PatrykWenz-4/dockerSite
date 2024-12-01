@@ -37,4 +37,7 @@ After that the example from React-bootstrap documentation started working:
 
 ![image](https://github.com/user-attachments/assets/3ff9af00-0509-48f9-a42e-bf37ff2211a7)
 
+Mapping fetched data allows us to display all items more effectively:
 
+
+![image](https://github.com/user-attachments/assets/69224233-effb-4f1f-bcff-bfb91d5cde1b)
