@@ -3,8 +3,10 @@
 This is a project that focuses on usage of docker to create a simple app.
 
 
+The setup is described in:
 
 https://github.com/PatrykWenz-4/DockerUsage/blob/main/README.md
+
 
 Right now the app fetches correctly data, from backend endpoints.
 
