@@ -28,8 +28,7 @@ In my case:
 
 ![image](https://github.com/user-attachments/assets/ab7dad27-4ab4-4779-8240-0afaa2b8c520)
 
-
+```
 docker exec -it 419fc4edb5c9 sh
-
-# npm install react-bootstrap bootstrap
-
+npm install react-bootstrap bootstrap
+```
